@@ -5,7 +5,7 @@
     Implementation details for module which contains doubly-linked list 
         specification data structures and functions.
     
-    Implemented by <YOU>
+    Implemented by Luong An Khang
 */
 
 #include "linkedList.h"
