@@ -6,7 +6,6 @@ The questions and skeleton code is provided by COMP20007 UniMelb Sem 1 2024, whi
 
 The main algorithm is located in convexHull.c. The main data structure is a simple linkedList. Both are tasks implemented by me.
 
-The description below is extracted from the course's problem description (with a bit of note).
 
 ## Tasks details
 
